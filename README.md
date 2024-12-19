@@ -54,12 +54,12 @@ $ sudo apt install cmake
 3. Compile and install the Livox-SDK2:
 
 ```shell
-$ git clone https://github.com/Livox-SDK/Livox-SDK2.git
-$ cd ./Livox-SDK2/
-$ mkdir build
-$ cd build
-$ cmake .. && make -j
-$ sudo make install
+git clone https://github.com/rtarun1/Livox-SDK2.git
+cd ./Livox-SDK2/
+mkdir build
+cd build
+cmake .. && make -j
+sudo make install
 ```
 
 **Note :**  
